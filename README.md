@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rayoloke
-- 👀 I’m interested in study and learn HTML, CSS and JavaScript, because i like it.
-- 🌱 I’m currently learning JavaScript and some random things like Photoshop and Music on FL Studio 20.
+- 👀 I’m actually learning Python and JS, cuz' i like it.
+- 🌱 My hobbies are playing games, Photoshopping random stuff and doing Music on FL Studio 21.
 - 📫 You can reach me by searching Rayoloke on social medias or by the link below (:
 
-https://www.linkedin.com/in/bruno-luiz-pereira-da-silva-a88a416b/
+[https://www.linkedin.com/in/bruno-luiz-pereira-da-silva-a88a416b/](https://www.linkedin.com/in/blps1310/)
 
 <!---
 Rayoloke/Rayoloke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
